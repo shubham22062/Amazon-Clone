@@ -1,1 +1,3 @@
 # Amazon-Clone
+
+This repository contains the frontend code for an Amazon-like e-commerce platform built with HTML, CSS, and JavaScript. Features include a responsive design, home page with product selection and banner, product listings with pagination, product details view, shopping cart functionality, user authentication, and search functionality. To install, clone the repository, navigate to the project directory, and open index.html in your browser. Contributions are welcome; please fork the repo, create a new branch, make your changes, and submit a pull request. The project is licensed under the MIT License. For any questions, contact me on GitHub or via email at your-shubhamawasthi021@gmail.com
